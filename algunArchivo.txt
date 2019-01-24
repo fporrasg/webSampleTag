@@ -1,6 +1,8 @@
-El velor murciélago hindú comía feliz cardillo y kiwi.El velor murcigaga indu comia feliz cardillo y kigui.
-La cigueña toca el sxofón detrás del palenque de paja.
+El velor murciÃ©lago hindÃº comÃ­a feliz cardillo y kiwi.El velor murcigaga indu comia feliz cardillo y kigui.
+La cigueÃ±a toca el sxofÃ³n detrÃ¡s del palenque de paja.
 
 Cambio
 
 Cambio desde Eclipse
+
+Despues Editado desde Git Hub
